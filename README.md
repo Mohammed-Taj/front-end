@@ -1,1 +1,3 @@
-# Calculator  with HTML CSS and JS
+# frontend projects 
+## Calculator  with HTML CSS and JS
+## portfolio website
